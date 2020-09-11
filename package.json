@@ -11,7 +11,4 @@
     "url": "git+https://github.com/gowthams316/helloworld-test"
   },
   "author": "gowtham",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
 }
