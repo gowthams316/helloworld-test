@@ -1,5 +1,5 @@
 {
-  "name": "@gowtham/hello-world-npm",
+  "name": "@gowthams316/hello-world-npm",
   "version": "1.0.2",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
@@ -12,7 +12,6 @@
   },
   "author": "gowtham",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
-
